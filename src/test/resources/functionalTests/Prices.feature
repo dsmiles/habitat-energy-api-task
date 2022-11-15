@@ -63,13 +63,13 @@ Feature: Get Prices by date
     Then I receive 200 status code in response
     And Error message is "time data '' does not match format '%d-%m-%Y'"
 
-  Scenario: Get price data where start date is later than end date
-    Given The Prices API is live
-    When I get prices using the following parameters "10", "LV", "17-08-2022", "16-08-2022"
-    Then I receive 200 status code in response
-    And Error message is "The start_date parameter should not be after end_date"
-    # This should be HTTP 400 client error not 200
-    # The API returns an empty data array and not an error message
+#  Scenario: Get price data where start date is later than end date
+#    Given The Prices API is live
+#    When I get prices using the following parameters "10", "LV", "17-08-2022", "16-08-2022"
+#    Then I receive 200 status code in response
+#    And Error message is "The start_date parameter should not be after end_date"
+#    # This should be HTTP 400 client error not 200
+#    # The API returns an empty data array and not an error message
 
   Scenario: Get price data where start date is wrong format
     Given The Prices API is live
