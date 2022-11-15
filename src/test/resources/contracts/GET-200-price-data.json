@@ -1,0 +1,1877 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "status": {
+      "type": "string"
+    },
+    "data": {
+      "type": "object",
+      "properties": {
+        "dnoRegion": {
+          "type": "string"
+        },
+        "voltageLevel": {
+          "type": "string"
+        },
+        "data": {
+          "type": "array",
+          "items": [
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "Overall": {
+                  "type": "number"
+                },
+                "unixTimestamp": {
+                  "type": "integer"
+                },
+                "Timestamp": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Overall",
+                "unixTimestamp",
+                "Timestamp"
+              ]
+            }
+          ]
+        }
+      },
+      "required": [
+        "dnoRegion",
+        "voltageLevel",
+        "data"
+      ]
+    }
+  },
+  "required": [
+    "status",
+    "data"
+  ]
+}
