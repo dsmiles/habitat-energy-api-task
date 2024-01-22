@@ -15,9 +15,9 @@ My list of suggested CI/CD and testing recommendations is here [here](RECOMMENDA
 
 ## Framework
 
-I built an API test framework that combined Behavior-Driven Development (BDD) with Cucumber and REST Assured to develop
+I built an API test framework that combined Behavior-Driven Development (BDD) with Cucumber and REST-assured to develop
 tests based on acceptance criteria.  The framework also utilises a number of other components for assertions, JSON 
-marshalling, etc., but Cucumber and REST Assured are the main ones.
+marshalling, etc., but Cucumber and REST-assured are the main ones.
 
 ### BDD Automation with Cucumber
 
