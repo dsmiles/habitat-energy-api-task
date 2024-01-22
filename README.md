@@ -25,11 +25,12 @@ Cucumber is a framework for writing automated tests in a BDD fashion. Its syntax
 readable and comprehensive tests which can be understood by any member of the team. Cucumber can be combined with many 
 API or UI frameworks.
 
-### REST Assured
+### REST-assured
 
-Rest Assured is a Java library that is used for writing automated API tests. Basically, Rest Assured acts like an HTTP 
-client where can create CRUD operations against a Restful server. They can be highly customizable so that we can have 
-the flexibility of performing many different combinations of test cases to cover the overall business logic
+REST-assured is a Java library that is used for writing automated API tests. Basically, REST-assured acts like an HTTP 
+client which can perform HTTP operations (GET, POST, PUT, DELETE, etc.) against a Restful server. They can be highly 
+customizable so that we can have the flexibility of performing many different combinations of test cases to cover the
+overall business logic
 
 ## Installation and Prerequisites
 
@@ -43,7 +44,7 @@ The following tools and libraries were used in the test framework:
     - Cucumber
     - Lombok
     - JUnit / AssertJ
-    - REST Assured
+    - REST-assured
 
 ## Running the tests
 
