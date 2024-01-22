@@ -26,7 +26,7 @@ API or UI frameworks.
 ### REST Assured
 
 Rest Assured is a Java library that is used for writing automated API tests. Basically, Rest Assured acts like an HTTP 
-client where can create CRUD operations against a Restful server. hey can be highly customizable so that we can have 
+client where can create CRUD operations against a Restful server. They can be highly customizable so that we can have 
 the flexibility of performing many different combinations of test cases to cover the overall business logic
 
 ## Installation and Prerequisites
