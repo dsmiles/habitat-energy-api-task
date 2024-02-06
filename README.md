@@ -30,7 +30,19 @@ API or UI frameworks.
 REST-assured is a Java library that is used for writing automated API tests. Basically, REST-assured acts like an HTTP 
 client which can perform HTTP operations (GET, POST, PUT, DELETE, etc.) against a Restful server. They can be highly 
 customizable so that we can have the flexibility of performing many different combinations of test cases to cover the
-overall business logic
+overall business logic.
+
+### Deserialization with REST-assured
+
+I use REST-assured to deserialize the API response from a JSON object into a Java POJO (Plain Old Java Object). 
+REST-assured internally handles the deserialization process and maps the JSON response to a POJO object. Once the 
+deserialization is complete, the data can be accessed using the getter methods of the POJO class.
+
+### Reducing Code Complexity with Lombok
+
+To further simplify the creation of POJO classes, I used Lombok, a Java library that reduces boilerplate code. Lombok 
+provides annotations such as @Data, @Getter, @Setter, and @NoArgsConstructor that automatically generate getter
+and setter methods, constructors, and other common code. This helps reduce the complexity and improves code readability.
 
 ## Installation and Prerequisites
 
