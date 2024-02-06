@@ -34,14 +34,14 @@ overall business logic.
 
 ### Deserialization with REST-assured
 
-I use REST-assured to deserialize the API response from a JSON object into a Java POJO (Plain Old Java Object). 
+I used REST-assured to deserialize the API response from a JSON object into a Java POJO (Plain Old Java Object). 
 REST-assured internally handles the deserialization process and maps the JSON response to a POJO object. Once the 
 deserialization is complete, the data can be accessed using the getter methods of the POJO class.
 
 ### Reducing Code Complexity with Lombok
 
 To further simplify the creation of POJO classes, I used Lombok, a Java library that reduces boilerplate code. Lombok 
-provides annotations such as @Data, @Getter, @Setter, and @NoArgsConstructor that automatically generate getter
+provides annotations such as `@Data`, `@Getter`, `@Setter`, and `@NoArgsConstructor` that automatically generate getter
 and setter methods, constructors, and other common code. This helps reduce the complexity and improves code readability.
 
 ## Installation and Prerequisites
