@@ -9,9 +9,9 @@ I successfully completed the challenge and the interview process, ultimately rec
 December 2022. However, I made the decision to decline the offer. In hindsight, I realize I probably should have 
 accepted it, given the interesting nature of the role. Oh well, live and learn.
 
-The task description is [Here](TECHNICAL-TASK.md).
+The task description is [here](TECHNICAL-TASK.md). The original task description in PDF format is [here](docs/pdf/Software-in-Test-Challenge.pdf).
 
-My list of suggested CI/CD and testing recommendations is here [here](RECOMMENDATIONS.md).
+My list of suggested CI/CD and testing recommendations is [here](RECOMMENDATIONS.md).
 
 ## Framework
 
@@ -28,7 +28,7 @@ API or UI frameworks.
 ### REST-assured
 
 REST-assured is a Java library that is used for writing automated API tests. Basically, REST-assured acts like an HTTP 
-client which can perform HTTP operations (GET, POST, PUT, DELETE, etc.) against a Restful server. They can be highly 
+client which can perform HTTP operations (`GET`, `POST`, `PUT`, `DELETE`, etc.) against a Restful server. They can be highly 
 customizable so that we can have the flexibility of performing many different combinations of test cases to cover the
 overall business logic.
 
